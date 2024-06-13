@@ -1,0 +1,15 @@
+root es que muestra todos los componentes
+
+descargar extenciones de:
+-Bracket,ES7,generate,pretier,React/redux, reactjs.simple react
+
+docuemntacion es reactjs: https://es.legacy.reactjs.org/docs/getting-started.html
+
+///////////
+Componentes de clase: Este nos permite guardar su estado y controlar lo que ocurre durante su ciclo de vida, exponiéndonos métodos como componentDidMount o componentWillUnmount .
+componentes fucnionales:  
+
+//////////////
+Para rendecizar los props se debe usar una constante con la sigueinte estructura
+const {Nombre de las variables }=this.props;
+esta debe esta dentro de la funcion que se quiera usar
